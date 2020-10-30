@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Sudhanshu Ranjan
+Copyright (c) 2020 Ayush Srivastava
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
