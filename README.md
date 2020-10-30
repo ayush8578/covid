@@ -27,4 +27,4 @@ https://api.covid19india.org/data.json
 
 
 ## License
-https://github.com/Sudhanshuraj048/covid/blob/master/LICENSE.md
+https://github.com/ayush8578/covid/blob/main/LICENSE.md
