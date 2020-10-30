@@ -23,7 +23,7 @@ https://api.covid19india.org/data.json
 
 ## Creator
 
-* **SUDHANSHU RANJAN** - https://github.com/Sudhanshuraj048
+* **Ayush Srivastava** - https://github.com/Sudhanshuraj048
 
 
 ## License
